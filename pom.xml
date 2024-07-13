@@ -16,11 +16,9 @@
  
 <dependencies>
   <dependency>
-    <groupId>de.sbs.fswi1</groupId>
-    <artifactId>dao2324</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>de.sbs.clagumb</groupId>
+    <artifactId>restdao</artifactId>
+    <version>1.0</version>
   </dependency>
 </dependencies>
-
-
 </project>
